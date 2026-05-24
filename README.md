@@ -1,7 +1,7 @@
 <h1 align="center">Digital Weigh Scale — Project Report</h1>
 
 <p align="center">
-  <b>Course:</b> Electrical Instrumentation and Measurement<br>
+  <b>Course:</b> Electrical Measurement and Instrumentation<br>
   <b>Instructor:</b> Dr. Vo Bich Hien
 </p>
 
@@ -40,7 +40,7 @@
 
 ## 1. Introduction
 
-This **digital weigh scale** was proposed by Dr. Vo Bich Hien as a mini project for the *Electrical Instrumentation and Measurement* course (ECE2024). In doing this project we gain hands-on experience and a broader perspective of practical measurement systems.
+This **digital weigh scale** was proposed by Dr. Vo Bich Hien as a mini project for the *Electrical Measurement and Instrumentation* course (ECE2024). In doing this project we gain hands-on experience and a broader perspective of practical measurement systems.
 
 Digital weighing systems are widely used in retail, industrial automation, and laboratories. A common approach is to use a **load cell** (strain-gauge bridge) that converts force into a small differential voltage, then digitize it using a high-resolution ADC such as the **HX711**. The Arduino processes the readings and drives a numeric display.
 
