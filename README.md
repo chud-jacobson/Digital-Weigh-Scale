@@ -1,5 +1,3 @@
-<h1 align="center">Digital Weigh Scale</h1>
-
 ## Contents
 - [1. Introduction](#1-introduction)
 - [2. System Overview](#2-system-overview)
