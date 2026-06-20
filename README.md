@@ -1,17 +1,4 @@
-<h1 align="center">Digital Weigh Scale — Project Report</h1>
-
-<p align="center">
-  <b>Course:</b> Electrical Measurement and Instrumentation<br>
-  <b>Instructor:</b> Dr. Vo Bich Hien
-</p>
-
-<p align="center">
-  <b>Authors:</b><br>
-  Nguyen Hoang Long — ID: 10223088<br>
-  Vu Hoang Minh — ID: 102240574
-</p>
-
----
+<h1 align="center">Digital Weigh Scale</h1>
 
 ## Contents
 - [1. Introduction](#1-introduction)
